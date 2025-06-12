@@ -1,0 +1,25 @@
+p {
+	
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+background-color: antiquewhite;
+padding: 20px;
+}
+body {
+	background-image: url("slike/11.jpg")
+}
+
+a:link {
+	color:black;
+	background-color: beige;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000;
+		
+}
+a:hover{
+	background-color: darkgrey;
+}
+img {
+	height: 400px;
+}
