@@ -1,0 +1,124 @@
+h1 {
+  font-family: "Caprasimo", serif;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 50px;
+}
+	.stil2 ul { /* centriranje */
+  padding: 50px; 
+  margin-left: auto; 
+  margin-right: auto;  
+  width: 325px;
+}
+
+.stil2 li { /* prikaz u jednom redu */
+
+  background-color: LightGreen;
+  padding: 20px;
+  border: 2px solid DarkGreen;
+}
+
+.stil2 li:active {
+  background-color: DarkGreen;
+}
+
+.stil2 li a {
+  color: white; 
+  font-family: "CabinSketch", sans-serif; 
+  /* font-family: "Montserrat", sans-serif; */
+  text-transform: uppercase;
+}
+
+.stil2 li a:link {
+  text-decoration: none;
+}
+
+.stil2 li a:hover {
+  text-decoration: underline;
+}
+
+
+	
+	
+  h2 {	/*centriranje*/
+			padding:20px; 
+			margin-left: auto; 
+			margin-right:auto;  
+			width:100px;
+			} 
+	
+	 body {	/*centriranje*/
+	 
+  text-align: justify;
+  letter-spacing: 0.5px;  /* razmak između slova */
+  word-spacing: 2px;      /* razmak između riječi */
+  
+  padding:20px; 
+			margin-left: auto; 
+			margin-right:auto;  
+			width: 1000px;
+			} 
+			
+		img {
+	height: 210px;
+
+}
+	
+			
+.stil1 ul { /* centriranje */
+  padding: 50px; 
+  margin-left: auto; 
+  margin-right: auto;  
+  width: 325px;
+}
+
+.stil1 li { /* prikaz u jednom redu */
+  display: inline;
+  background-color: LightCoral;
+  padding: 20px;
+  border: 2px solid IndianRed;
+}
+
+.stil1 li:active {
+  background-color: IndianRed;
+}
+
+.stil1 li a {
+  color: white; 
+  font-family: "CabinSketch", sans-serif; 
+  /* font-family: "Montserrat", sans-serif; */
+  text-transform: uppercase;
+}
+
+.stil1 li a:link {
+  text-decoration: none;
+}
+
+.stil1 li a:hover {
+  text-decoration: underline;
+}
+
+
+a.stil3:link {
+  color: black;
+  background-color: beige;
+  padding: 5px;
+  line-height: 40px;
+  border: 1px solid #000000;
+}
+
+a.stil3:hover {
+  background-color: darkgrey;
+}
+body {
+	background-image: url("zutapoz.jpg");
+	background-size: cover;
+	
+}
+p {
+	
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+background-color: antiquewhite;
+padding: 20px;
+}

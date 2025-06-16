@@ -1,0 +1,88 @@
+@font-face {
+  font-family: "BarbaraKusinec";
+  src: url("BarbaraKusinec.ttf") format("truetype");
+}
+
+h1 {
+  font-family: "BarbaraKusinec", sans-serif;
+  font-size:65px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+	}
+	  h1 {	/*centriranje*/
+			padding:20px; 
+			margin-left: auto; 
+			margin-right:auto;  
+			width: 325px;
+			} 
+	
+	
+h2 {
+  font-family: "Caprasimo", serif;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 50px;
+}
+	 body {	/*centriranje*/
+	 
+  text-align: justify;
+  letter-spacing: 0.5px;  /* razmak između slova */
+  word-spacing: 2px;      /* razmak između riječi */
+
+
+
+			padding:20px; 
+			margin-left: auto; 
+			margin-right:auto;  
+			width: 1000px;
+			} 
+			
+			
+.stil1 ul { /* centriranje */
+  padding: 50px; 
+  margin-left: auto; 
+  margin-right: auto;  
+  width: 325px;
+}
+
+.stil1 li { /* prikaz u jednom redu */
+  display: inline;
+  background-color: LightCoral;
+  padding: 20px;
+  border: 2px solid IndianRed;
+}
+
+.stil1 li:active {
+  background-color: IndianRed;
+}
+
+.stil1 li a {
+  color: white; 
+  font-family: "CabinSketch", sans-serif; 
+  /* font-family: "Montserrat", sans-serif; */
+  text-transform: uppercase;
+}
+
+.stil1 li a:link {
+  text-decoration: none;
+}
+
+.stil1 li a:hover {
+  text-decoration: underline;
+}
+
+
+body {
+	background-image: url("pozadina1.jpg");
+	background-size: cover;
+	
+}
+p {
+	
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+background-color: antiquewhite;
+padding: 20px;
+}
